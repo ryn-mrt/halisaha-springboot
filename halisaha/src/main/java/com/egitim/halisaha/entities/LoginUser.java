@@ -10,7 +10,7 @@ import javax.persistence.Id;
 @Data
 @Entity
 public class LoginUser {
-
+//ekleme
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long fid;
